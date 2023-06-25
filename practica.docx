@@ -1,15 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace demo_app
 {
-	class Program
-	{
-		static void Main(string[] args)
-		{
-			Console.WritteLine("Some text");
-			Console.ReadLine();
-		}
-	}
+    Console.WriteLine("Привет");
+    Console.WriteLine("Добро пожаловать в C#");
 }
